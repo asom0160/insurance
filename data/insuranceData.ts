@@ -22,7 +22,8 @@ export const lifeInsuranceLinks: { href: string; imgSrc: string }[] = [
     { href: "https://e-life.heungkuklife.co.kr", imgSrc: "/life/heungkuklife.png" },
     { href: "https://wsfa.hyundailife.com/", imgSrc: "/life/hyundailife.png" },
     { href: "https://ga.shinhanlife.co.kr/colgism001m.msv", imgSrc: "/life/shinhan.png" },
-    { href: "https://fgs.dgbfnlife.com:8443/", imgSrc: "/life/imlife.png" },
+    { href: "https://fgs.dgbfnlife.com:8443/", imgSrc: "/life/imLife.png" },
+
     { href: "http://kss.kdblife.co.kr", imgSrc: "/life/kdblife.png" },
     { href: "https://esfa.kbli.co.kr", imgSrc: "/life/kblife.png" },
     { href: "http://etopia.dongbulife.com", imgSrc: "/life/dongbulife.png" },
